@@ -4,6 +4,7 @@
 
 
 def is_even(num):
+    ''' Takes a number and returns True if number is even else returns False'''
     if num % 2 == 0:
         return True
 

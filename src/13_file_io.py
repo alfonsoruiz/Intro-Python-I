@@ -20,4 +20,4 @@ with open('foo.txt') as f:
 
 # YOUR CODE HERE
 with open('bar.txt', 'w') as f:
-    f.write('Hello World \n Hello World \n Hello World')
+    f.write('Hello World\nHello World\nHello World')
